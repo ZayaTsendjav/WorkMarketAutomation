@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Generic</module>
-        <module>WorkMarket</module>
+        <module>WorkMarketDotCom</module>
     </modules>
     <dependencyManagement>
         <dependencies>
